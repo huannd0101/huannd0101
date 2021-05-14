@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huannd0101&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://huannd0101.github.io/BTL/Nguyen_Dinh_Huan/Home.html
+[![Readme Card](https://huannd0101.github.io/BTL/Nguyen_Dinh_Huan/Home.html)
