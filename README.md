@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huannd0101&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huannd0101)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huannd0101&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://huannd0101.github.io/BTL/Nguyen_Dinh_Huan/Home.html)
