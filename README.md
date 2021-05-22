@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Android and Java Web
 - 🔭 I’m currently working on HIT - HaUI
-- 📫 How to reach me: 0375417808 or huannd0101@gmail.com
+- 📫 You can contact me at: 0375417808 or huannd0101@gmail.com
 <!--
 **huannd0101/huannd0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
