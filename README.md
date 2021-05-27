@@ -1,8 +1,11 @@
-### Hi there 👋
-- 🌱 I’m currently learning Android and Java Web
-<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"> </img>
-- 🔭 I’m currently working on HIT - HaUI
-- 📫 You can contact me at: 0375417808 or huannd0101@gmail.com
+### Hi there 👋 My name is Nguyễn Đình Huân 
+
+<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40" height="40"> </img>
+
+<p>- 🌱 I’m currently learning Android and Java Web</p>
+<p>- 🔭 I’m currently working on HIT - HaUI</p>
+<p>- 📫 You can contact me at: 0375417808 or huannd0101@gmail.com</p>
+
 <!--
 **huannd0101/huannd0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
